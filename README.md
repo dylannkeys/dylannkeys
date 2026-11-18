@@ -12,6 +12,7 @@ Estudiante de **Ingeniería en Sistemas de Información** (7.º semestre) en la 
 | --- | --- | --- |
 | **[Cuentas Claras](https://github.com/dylannkeys/finanzas-app)** · [demo en vivo](https://finanzas-app-six-sigma.vercel.app) | App de finanzas personales: ingresos, gastos, presupuestos por categoría y gráficos. Con autenticación, tests y CI. | React · TypeScript · Express · PostgreSQL |
 | **[Biblioteca API](https://github.com/dylannkeys/biblioteca-api)** | API REST con reglas de negocio reales: límite de préstamos, vencimientos y multas. Tests *table-driven*, Docker y CI. | Go · SQL · Docker |
+| **[Automatización con Python](https://github.com/dylannkeys/automatizacion-python)** | Scripts que automatizan un proceso de selección: limpieza y validación de datos, reporte en Excel, correos personalizados y ejecución semanal programada. | Python · openpyxl · GitHub Actions |
 | **[Dylan Studio](https://github.com/dylannkeys/dylan-studio-web)** | Aplicación web para un estudio creativo: gestión de ofertas, solicitudes y contenido dinámico, con panel de administración. | HTML · CSS · JavaScript · Node.js · SQL Server |
 | **[Clases de música](https://github.com/dylannkeys/clases-musica-web)** | Sitio educativo sobre piano, guitarra y teoría musical. | HTML · CSS · JavaScript |
 
